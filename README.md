@@ -4,13 +4,12 @@
 
 ## Deskripsi
 
-Proyek ini adalah aplikasi yang dibangun menggunakan **Dart Programming Language** yang berfokus pada pengembangan aplikasi mobile. Aplikasi ini dirancang untuk memanfaatkan kemampuan framework mobile Dart, seperti **Flutter**, untuk mengembangkan aplikasi mobile yang interaktif dan responsif.
+Proyek ini adalah aplikasi mobile sederhana yang dibangun menggunakan **Dart Programming Language** dengan bantuan framework **Flutter**. Aplikasi ini dibuat sebagai bagian dari mata kuliah **Aplikasi Mobile Framework** di program studi **Keamanan Sistem Informasi**, kelas **KSI 6A**, Jurusan **Teknik Informatika** di **Politeknik Negeri Bengkalis**.
 
-Aplikasi ini merupakan bagian dari mata kuliah **Aplikasi Mobile Framework** yang bertujuan untuk memberikan pemahaman kepada mahasiswa dalam mengembangkan aplikasi mobile dengan menggunakan bahasa Dart.
+Proyek ini bertujuan untuk mempelajari dasar-dasar pengembangan aplikasi mobile dengan Dart dan Flutter, serta memahami bagaimana membangun aplikasi mobile yang responsif dan interaktif.
 
 ## Fitur
 
-- Penggunaan **Flutter** untuk pengembangan aplikasi mobile.
-- Tampilan antarmuka yang responsif.
-- Implementasi dasar dari aplikasi mobile menggunakan Dart.
-- Fitur interaktif untuk pengguna.
+- Penggunaan **Flutter** untuk mengembangkan aplikasi mobile.
+- Antarmuka yang responsif dan sederhana.
+- Pengenalan dasar konsep **Dart** dalam pengembangan aplikasi mobile.
